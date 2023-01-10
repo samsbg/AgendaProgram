@@ -1,5 +1,5 @@
 # AgendaProgram README
 
-This project is rather large with multiple classes connected to each other and all are in java. As I'm still working on figuring out github, it may not be workable(?) yet , but it will be updated as soon as possible.
+This is a desktop application built with Java that lets users set up and track their school subjects and assignments. The main view features a monthly calendar, as well as a to-do list for upcoming assignments. Users can add new subjects and assignments by clicking on a specific date or time slot in a day schedule view and filling out a form, where past events can also be modified by the user. 
 
-This project was done in highschool, check out the projects of Ortografia or Minesweeper to get a hang on more current projects in python.
+The application was built using object-oriented programming principles and makes use of data structures such as linked lists and arraylists. It also utilizes external libraries such as jdatepicker and javax.swing. 
